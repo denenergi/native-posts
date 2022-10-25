@@ -8,4 +8,6 @@ In the project directory, you can run:
 
 ### `npm start`
 
+click in the terminal "W"
+
 оpen development tools and select any emulated device
